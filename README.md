@@ -97,11 +97,17 @@
      <img src="images/file_in_php.png" alt="fileinphp screenshot"/> </li>
 </ol>
 
-<h4>Step Five: Create Folder in C: Drive</h4>
+<br>
+<h4>Step Five: Install C++ Redistributable</h4>
 <ol>
-    <li>Create PHP folder in ROOT -   
-     <br>
-     <img src="images/PHPfolder.png" alt="phpfolder screenshot"/> </li>
+    <li>Download and Install  - <a href="https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view" target="_blank">C++ Redistributable File </a> </li>
+</ol>
+<br>
+<h4>Step Six: Install MySQL </h4>
+<ol>
+    <li>Download and Install  - <a href="https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view" target="_blank">MySQL </a> </li>
+    <li>Note: Make sure to Write Down ROOT password.</li>
+     <li>Then Next and Finished</li>
 </ol>
 
 
