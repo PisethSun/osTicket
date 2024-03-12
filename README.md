@@ -57,3 +57,14 @@
 - MySQL
 - HeidiSQL
 - osTicket
+
+
+## Installation Steps:
+
+<h4>Step One </h4>: 
+    1.  Control Panel
+    2.  Programs
+    3.  Turn Windows features off and on
+    4.  Check the box
+
+  <img src="images/step_one.png" alt="osticketdashbaord screenshot"/>
