@@ -118,9 +118,17 @@
     <li>Register new PHP version
         <li>Browse: click on the three dots</li></li>
         <li>C: Dive</li>
-        <li>PHP</li>
+        <li>PHP folder</li>
         <li>php-cgi</li>
+        <li>Restart IIS</li>
         </li>
+</ol>
+<br>
+<h4>Step Eight: Install osTicket </h4>
+<ol>
+    <li>Download osTicket Zip and Extract - <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6" target="_blank">MySQL </a></li>
+    <li>Rename "Upload" to "osTicket":  <br>
+     <img src="images/rename_upload_to_osTicket.png" alt="upload rename to osTicket image"/></li>
 </ol>
 
 
