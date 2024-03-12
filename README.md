@@ -61,10 +61,13 @@
 
 ## Installation Steps:
 
-<h4>Step One </h4>: 
-    1.  Control Panel
-    2.  Programs
-    3.  Turn Windows features off and on
-    4.  Check the box
+<h4>Step One</h4>
+<ol>
+    <li>Control Panel</li>
+    <li>Programs</li>
+    <li>Turn Windows features off and on</li>
+    <li>Check the box</li>
+</ol>
+
 
   <img src="images/step_one.png" alt="osticketdashbaord screenshot"/>
