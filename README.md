@@ -134,14 +134,16 @@
 </ol>
 
 <br>
-<h4>Step Eight: Install osTicket </h4>
+<h4>Step Nine: Test osTicket </h4>
 <ol>
-    <li>Download osTicket Zip and Extract - <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6" target="_blank">MySQL </a></li>
-    <li>Rename "Upload" to "osTicket":  <br>
-    <img src="images/rename_upload_to_osTicket.png" alt="upload rename to osTicket image"/></li>
-    <li>Restart IIS 
-    <br>
-    <img src="images/IIS Restart.png" alt="upload rename to osTicket image"/></li>
+    <li>In IIS</li>
+    <li>Click Browse: .80 </li>
+      <br>
+        <img src="images/clickbrowse80.png" alt="upload rename to osTicket image"/></li>
+   <li>Page should load - If not you need to restart the lab  from Step Eight </li>
+   
+
+
 </ol>
 
 
