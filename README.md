@@ -13,7 +13,8 @@
 
 <h4>Remote Desktop- RDP Port 3389 </h4>
 
-$\textcolor{blue}{- Used to facilitate remote access to Windows computers through the Remote Desktop Protocol (RDP). This connection method allows users to operate a remote desktop or server as if they were physically present, regardless of location. }$
+$\textcolor{blue}{- Used to facilitate remote access to Windows computers through the Remote Desktop Protocol (RDP). 
+This connection method allows users to operate a remote desktop or server as if they were physically present, regardless of location. }$
 
 <p align="center">
 <img src="images/VM1.png" alt="VM1 pic"/>
