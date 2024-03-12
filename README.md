@@ -166,5 +166,50 @@
  <br>
   <img src="images/ost_rename.png" alt="rename ost image"/></li>
 
+  <br>
+<h4>Step Twelve: Set Permission to OST file</h4>
+    <li>Right Click ost-config.php ==> Properties ==> Security==> Advance ==> Disable Inheritance ==> Remove All Permission </li>
+    <li>Click "Add" ==> Select Principle ==> in the box type "Everyone" ==> CHECKED ALL BOXES</li>
+    <li>Click Ok twice</li>
+ <br>
+  <img src="images/ost_rename.png" alt="rename ost image"/></li>
+
+<h4>Step Thirteen: Install HeidiSQL</h4>
+    <li>Downlaod and Install- <a href="https://www.google.com/url?q=https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe&sa=D&source=docs&ust=1710254958363001&usg=AOvVaw0ZYb-ytx6_a5F03O0sjh9U" target="_blank">HeidiSQL </a> </li>
+ 
+ <br>
+  <img src="images/HeidiSQL.png" alt="rename ost image"/></li>
+
+
+<h4>Step Fourteen: Install HeidiSQL</h4>
+    <li>Open Heidi SQL-
+ <br>
+  <img src="images/Heidinew_session.png" alt="rename ost image"/></li>
+
+
+# Setting up osTicket HelpDesk
+
+ <br>
+  <img src="images/osTicketinstaller.jpg" alt="Osticket installer image"/></li>
+    <li>Fill out everything and Write Down your username and password</li>
+
+Continue Setting up osTicket in the browser (click Continue)
+Name Helpdesk
+Default email (receives email from customers)
+
+From the Installation Files, download and install HeidiSQL.
+Open Heidi SQL
+Create a new session, root/Password1
+Connect to the session
+Create a database called “osTicket”
+
+Continue Setting up osticket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: Password1
+Click “Install Now!”
+
+Congratulations, hopefully it is installed with no errors!
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
 
