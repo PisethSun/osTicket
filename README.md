@@ -208,4 +208,5 @@
 ## Last Step : Delete the the folder called "Setup"
 
 <br>
+<h5>There is no folder call "Setup" </h5>
   <img src="images/delete_setup_folder.png" alt="Delete setup image"/></li>
