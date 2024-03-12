@@ -110,6 +110,19 @@
      <li>Then Next and Finished</li>
 </ol>
 
+<br>
+<h4>Step Seventh: Configuration inside IIS </h4>
+<ol>
+    <li>Search IIS on your PC </li>
+    <li>PHP Manager</li>
+    <li>Register new PHP version
+        <li>Browse: click on the three dots</li></li>
+        <li>C: Dive</li>
+        <li>PHP</li>
+        <li>php-cgi</li>
+        </li>
+</ol>
+
 
 
 
