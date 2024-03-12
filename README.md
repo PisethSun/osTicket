@@ -66,7 +66,8 @@
     <li>Control Panel</li>
     <li>Programs</li>
     <li>Turn Windows features off or on</li>
-    <li>Check the box</li>
+    <li>Check the box</li> <br>
+    <img src="images/step_one.png" alt="osticketdashbaord screenshot"/>
     <li>Test the page- 127.0.0.1  (Loopback)</li>
     <br>
      <img src="images/loopback.png" alt="osticketdashbaord screenshot"/>
@@ -74,7 +75,7 @@
 </ol>
 
 
-  <img src="images/step_one.png" alt="osticketdashbaord screenshot"/>
+  
 
 
 
