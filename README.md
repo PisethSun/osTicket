@@ -120,7 +120,9 @@
         <li>C: Dive</li>
         <li>PHP folder</li>
         <li>php-cgi</li>
-        <li>Restart IIS</li>
+        <li>Restart IIS 
+         <br>
+        <img src="images/IIS Restart.png" alt="upload rename to osTicket image"/></li>
         </li>
 </ol>
 <br>
@@ -129,6 +131,17 @@
     <li>Download osTicket Zip and Extract - <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6" target="_blank">MySQL </a></li>
     <li>Rename "Upload" to "osTicket":  <br>
      <img src="images/rename_upload_to_osTicket.png" alt="upload rename to osTicket image"/></li>
+</ol>
+
+<br>
+<h4>Step Eight: Install osTicket </h4>
+<ol>
+    <li>Download osTicket Zip and Extract - <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6" target="_blank">MySQL </a></li>
+    <li>Rename "Upload" to "osTicket":  <br>
+    <img src="images/rename_upload_to_osTicket.png" alt="upload rename to osTicket image"/></li>
+    <li>Restart IIS 
+    <br>
+    <img src="images/IIS Restart.png" alt="upload rename to osTicket image"/></li>
 </ol>
 
 
