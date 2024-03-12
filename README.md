@@ -4,7 +4,7 @@
 <h2>Environments and Technologies Used</h2>
 
 
-[!NOTE]Microsoft Azure (Virtual Machines/Compute):
+>[!NOTE]Microsoft Azure (Virtual Machines/Compute):
 - Owned by Microsoft- allowed users to create resource group and run various virtual machine suhc as Windows, Ubuntu , Red Hat Enterprise Linux, Windows Server, etc.
 <p align="center">
 <img src="images/azure.png" alt="osTicket logo"/>
