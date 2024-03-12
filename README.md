@@ -30,8 +30,20 @@
     - PHP Manager
         - Extensions :
         <img src="images/phpextensions.png" alt="phpextension screenshot"/>
-    - CGI
+
     - URL Rewrite
+        
+        <img src="images/URLRewrite.png" alt="URLrewrite screenshot"/>
+
+    - HeidiSQL
+        
+         <img src="images/HeidiSQL.png" alt="HeidiSQL screenshot"/>
+
+    - osTicket
+
+     <img src="images/osticketdashbaord.png" alt="osticketdashbaord screenshot"/>
+        
+
     
 
 <h2>Operating Systems Used </h2>
