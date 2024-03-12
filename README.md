@@ -14,7 +14,19 @@
 <p align="center">
 <img src="images/VM1.png" alt="VM1 pic"/>
 </p>
-- Internet Information Services (IIS) - Internet Information Services is an extensible web server created by Microsoft for use with the Windows NT family.
+# Internet Information Services (IIS) 
+
+- Internet Information Services is an extensible web server created by Microsoft for use with the Windows NT family.
+<p align="center">
+<img src="images/VM1.png" alt="VM1 pic"/>
+</p>
+
+- Part of the lab - we added:
+    - PHP Manager
+        - Extensions - <img src="images/phpextensions.png" alt="phpextension screenshot"/>
+    - CGI
+    - URL Rewrite
+    
 
 <h2>Operating Systems Used </h2>
 
