@@ -214,7 +214,6 @@
   <h4>Task : Set Permission Back to READ ONLY </h4>
     <li>Right Click ost-config.php ==> Properties ==> Security==> "Everyone"  </li>
     <li>Set EVERYONE TO  Read- Only and Read </li>
-     
     <li>Click Ok twice</li>
  <br>
   <img src="images/setback_permission.png" alt="set permission image"/></li>
