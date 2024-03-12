@@ -61,7 +61,7 @@
 
 ## Installation Steps:
 
-<h4>Step One</h4>
+<h4>Step One: Install/Enable IIS in Windows with CGI</h4>
 <ol>
     <li>Control Panel</li>
     <li>Programs</li>
@@ -73,19 +73,37 @@
      <img src="images/loopback.png" alt="osticketdashbaord screenshot"/>
 
 </ol>
-
-
-  
-
-
-
-
-
-<h4>Step Two</h4>
+<br>
+<h4>Step Two: Install PHP Manager for CGI</h4>
 <ol>
-    <li>Control Panel</li>
-    <li>Programs</li>
-    <li>Turn Windows features off or on</li>
-    <li>Check the box</li>
+    <li>Download and Install - <a href="https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view" target="_blank">Php Manager</a> </li>
 </ol>
+
+<br>
+<h4>Step Three: Install Rewrite Module</h4>
+<ol>
+    <li>Download and Install - <a href="https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view" target="_blank">Rewrite Module</a> </li>
+</ol>
+
+<br>
+<h4>Step Four: Create Folder in C: Drive</h4>
+<ol>
+    <li>Create PHP folder in ROOT -   
+     <br>
+     <img src="images/PHPfolder.png" alt="phpfolder screenshot"/> </li>
+    <li>Download and Install - <a href="https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view" target="_blank">PHP 7.3.8 </a></li>
+    <li>Extract file to PHP folder in ROOT</li>
+    <br>
+     <img src="images/file_in_php.png" alt="fileinphp screenshot"/> </li>
+</ol>
+
+<h4>Step Five: Create Folder in C: Drive</h4>
+<ol>
+    <li>Create PHP folder in ROOT -   
+     <br>
+     <img src="images/PHPfolder.png" alt="phpfolder screenshot"/> </li>
+</ol>
+
+
+
 
