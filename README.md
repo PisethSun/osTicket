@@ -199,8 +199,7 @@
     MySQL Username: root<br>
     MySQL Password: Password1<br>
     Click “Install Now!”<br>
-    Congratulations, hopefully it is installed with no errors!<br>
-    Browse to your help desk login page: <a href="http://localhost/osTicket/scp/login.php" target="_blank">http://localhost/osTicket/scp/login.php</a>
+   
 </p>
 
 
@@ -210,3 +209,18 @@
 <br>
 <h5>There is no folder call "Setup" </h5>
   <img src="images/delete_setup_folder.png" alt="Delete setup image"/></li>
+
+
+  <h4>Task : Set Permission Back to READ ONLY </h4>
+    <li>Right Click ost-config.php ==> Properties ==> Security==> "Everyone"  </li>
+    <li>Set EVERYONE TO  Read- Only and Read </li>
+     
+    <li>Click Ok twice</li>
+ <br>
+  <img src="images/setback_permission.png" alt="set permission image"/></li>
+
+
+### To Access the osTicket Login page
+
+Congratulations, hopefully it is installed with no errors!<br>
+Browse to your help desk login page: <a href="http://localhost/osTicket/scp/login.php" target="_blank">http://localhost/osTicket/scp/login.php</a>
