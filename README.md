@@ -23,7 +23,8 @@
 
 - Part of the lab - we added:
     - PHP Manager
-        - Extensions - <img src="images/phpextensions.png" alt="phpextension screenshot"/>
+        - Extensions :
+        <img src="images/phpextensions.png" alt="phpextension screenshot"/>
     - CGI
     - URL Rewrite
     
