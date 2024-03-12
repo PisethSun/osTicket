@@ -142,10 +142,29 @@
         <img src="images/clickbrowse80.png" alt="upload rename to osTicket image"/></li>
    <li>Page should load - If not you need to restart the lab  from Step Eight </li>
    
-
+</ol>
+<br>
+<h4>Step Ten: Enable Extension</h4>
+<ol>
+    <li>Go to IIS, Site ==> Default ==> osTicket </li>
+    <li>Go PHP Manager  ==> Enable these extension:
+    <li>Enable: php_imap.dll</li>
+    <li>Enable: php_intl.dll</li>
+    <li>Enable: php_opache.dll</li>
+    </li>
+    <li>Refresh </li>
 
 </ol>
 
+ 2. <img src="images/enable_php.png" alt="enable php image"/></li>
+ 3.  <img src="images/phpextensions.png" alt="php ext image"/></li>
+
+<br>
+<h4>Step Eleven: Rename</h4>
+    <li>Path: C:\inetpub\wwwroot\osTicket\include</li>
+    <li> Rename from "ost-sampleconfig.php" ==> "ost-config.php" </li>
+ <br>
+  <img src="images/ost_rename.png" alt="rename ost image"/></li>
 
 
 
